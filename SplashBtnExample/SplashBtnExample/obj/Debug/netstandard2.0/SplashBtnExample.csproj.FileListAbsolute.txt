@@ -1,0 +1,13 @@
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\bin\Debug\netstandard2.0\SplashBtnExample.deps.json
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\bin\Debug\netstandard2.0\SplashBtnExample.dll
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\bin\Debug\netstandard2.0\SplashBtnExample.pdb
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\Conponents\SplashButton.xaml.g.cs
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\SplashBtnExample.csproj.CoreCompileInputs.cache
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\SplashBtnExample.AssemblyInfoInputs.cache
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\SplashBtnExample.AssemblyInfo.cs
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\XamlC.stamp
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\SplashBtnExample.dll
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\SplashBtnExample.pdb
+F:\C_shap\SplashBtnExample\SplashBtnExample\SplashBtnExample\obj\Debug\netstandard2.0\SplashBtnExample.csprojAssemblyReference.cache
